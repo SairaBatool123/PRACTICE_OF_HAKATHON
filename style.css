@@ -1,20 +1,36 @@
-.back{
+.back {
     background: #F0ECF9;
 }
-.backi{
+
+/* * {
+    box-sizing: border-box;
+} */
+
+.backi {
     background: #F0ECF9;
-    border-radius: ;
+    border-bottom-right-radius: 125px;
 }
-.button{
+
+.button {
     background-color: #6F42C1 !important;
 }
-.my{
+
+.my {
     color: #6F42C1 !important;
 }
-.foot{
+
+.foot {
     background: #F8F5FC !important;
 }
-a{
+
+a {
     color: #6F42C1 !important;
     text-decoration: none !important;
 }
+
+.custom-card {
+    background: #E2D9F3 !important;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
